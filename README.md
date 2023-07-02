@@ -13,7 +13,7 @@ In order to improve code readability, the following changes have been implemente
 - [The Full Stop Glyph (`.`, U+002E)](https://www.compart.com/en/unicode/U+002E) has been adjusted with additional side spacing to improve its appearance in Enso code, such as `data.read`.
 - [The Low Line Glyph (`_`, U+005F)](https://www.compart.com/en/unicode/U+005F) spacing and vertical alignment has been modified to ensure greater consistency when used to surround words.
 - [The Apostrophe Glyph (`'`, U+0027)](https://www.compart.com/en/unicode/U+0027), [the Quotation Mark Glyph (`"`, U+0022)](https://www.compart.com/en/unicode/U+0022), and their left and right variants have been modified to not use italics style when using inside of a text.
-- The mathematical operators (`+`, `-`, `*`) have been modified to have the same spacing and vertical alignment.
+- The mathematical operators (`+`, `-`, `*`, `<`, `>`) have been modified to have the same spacing and vertical alignment.
 - [The Space Glyph (' ', U+0020)](https://www.compart.com/en/unicode/U+0020) has been adjusted to have the same width as mathematical operators.
 - Ligatures for `<|`, `|>`, and `->` have been added.
 
