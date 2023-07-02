@@ -21,11 +21,11 @@ In order to improve code readability, the following changes have been implemente
 
 ## Using Enso Font in regular sentences
 
-In order to use the font in regular sentences, several new glyphs have been implemented. If you want to use this font to display regular sentences, you have to apply the following rules to your text:
+In order to use the font in regular sentences, several new glyphs have been implemented. If you want to use this font to display regular sentences, you have to apply the following transformations to your text:
 
 - Instead of [the One Dot Leader Glyph (`․`, U+2024)](https://www.compart.com/en/unicode/U+2024) use the [the One Dot Leader Glyph (`․`, U+2024)](https://www.compart.com/en/unicode/U+2024).
-- Instead of [the Space Glyph (' ', U+0020)](https://www.compart.com/en/unicode/U+0020) use [the Four-Per-Em Space Glyph (' ', U+2005)](https://www.compart.com/en/unicode/U+2005).
-- Instead of [the Hyphen Glyph ('-', U+2010)](https://www.compart.com/en/unicode/U+2010), use [the En Dash Glyph ('–', U+2013)](https://www.compart.com/en/unicode/U+2013).
+- Instead of [the Space Glyph (` `, U+0020)](https://www.compart.com/en/unicode/U+0020) use [the Four-Per-Em Space Glyph (` `, U+2005)](https://www.compart.com/en/unicode/U+2005).
+- Instead of [the Hyphen Glyph (`-`, U+2010)](https://www.compart.com/en/unicode/U+2010), use [the En Dash Glyph (`–`, U+2013)](https://www.compart.com/en/unicode/U+2013).
 
 <br/>
 
