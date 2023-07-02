@@ -40,4 +40,4 @@ To install the Enso font, please follow these steps:
 
 ## Contributing
 
-If you wish to contribute and make edits to the Enso font, you can use the [MacOS Glyphs App](https://glyphsapp.com). Simply open the `sources/Enso.glyphs` file in the Glyphs App and make the desired modifications.
+If you wish to contribute and make edits to the Enso font, you can use the [MacOS Glyphs App](https://glyphsapp.com). Simply open the `src/Enso.glyphs` file in the Glyphs App and make the desired modifications. To build the fonts, use the `File -> export` command. Currently, the `build.py` script is not supported and is kept only for future reference.
