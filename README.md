@@ -5,6 +5,7 @@ The Enso font was specifically created for the [Enso application](https://enso.o
 - [The Full Stop Glyph (`.`, U+002E)](https://www.compart.com/en/unicode/U+002E) has been adjusted with additional side spacing to improve its appearance in Enso code, such as `data.read`.
 - [The One Dot Leader Glyph (`․`, U+2024)](https://www.compart.com/en/unicode/U+2024) has been implemented as an alternative to the full stop glyph for use in regular sentences.
 - [The Low Line Glyph (`_`, U+005F)](https://www.compart.com/en/unicode/U+005F) has been modified to ensure greater consistency when used to surround words.
+- [The Apostrophe Glyph (`'`, U+0027)](https://www.compart.com/en/unicode/U+0027), [the Quotation Mark Glyph (`"`, U+0022)](https://www.compart.com/en/unicode/U+0022), and their left and right variants have been modified to enhance code readability.
 - Ligatures for `<|`, `|>`, and `->` have been added to enhance code readability.
 
 <br/>
