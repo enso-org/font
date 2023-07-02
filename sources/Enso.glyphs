@@ -1,12 +1,9 @@
 {
 .appVersion = "3151";
 DisplayStrings = (
-_,
-"",
-"",
-">",
-"/bar_greater.liga",
-"/less_bar.liga"
+"/hyphen_greater.liga",
+"-",
+"/bar_greater.liga"
 );
 copyright = "Copyright 2021 The M+ FONTS Project Authors (https://github.com/coz-m/MPLUS_FONTS)";
 customParameters = (
@@ -108,7 +105,7 @@ name = dlig;
 },
 {
 automatic = 1;
-code = "lookupflag IgnoreMarks;\012sub f f i by f_f_i.liga;\012sub f f l by f_f_l.liga;\012sub bar greater by bar_greater.liga;\012sub f f by f_f.liga;\012sub less bar by less_bar.liga;\012sub f i by fi.liga;\012sub f l by fl.liga;\012";
+code = "lookupflag IgnoreMarks;\012sub f f i by f_f_i.liga;\012sub f f l by f_f_l.liga;\012sub bar greater by bar_greater.liga;\012sub f f by f_f.liga;\012sub hyphen greater by hyphen_greater.liga;\012sub less bar by less_bar.liga;\012sub f i by fi.liga;\012sub f l by fl.liga;\012";
 name = liga;
 },
 {
@@ -73908,6 +73905,83 @@ width = 1000;
 }
 );
 unicode = 30FB;
+},
+{
+glyphname = hyphen_greater.liga;
+lastChange = "2023-07-02 08:15:58 +0000";
+layers = (
+{
+layerId = "D65C9A1E-0FCA-4B2D-8EDF-9F36CA9182A1";
+paths = (
+{
+closed = 1;
+nodes = (
+"802 280 LINE",
+"802 300 LINE",
+"59 300 LINE",
+"59 280 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1070 290 LINE",
+"700 440 LINE",
+"700 120 LINE"
+);
+}
+);
+width = 1143;
+},
+{
+layerId = "9527F797-22C1-480E-A1FE-2CDBEBE1FD4C";
+paths = (
+{
+closed = 1;
+nodes = (
+"802 240 LINE",
+"802 340 LINE",
+"59 340 LINE",
+"59 240 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1070 290 LINE",
+"630 520 LINE",
+"630 60 LINE"
+);
+}
+);
+width = 1129;
+},
+{
+layerId = "9E6B41AB-2970-4C41-8B35-4DBE0D296A43";
+paths = (
+{
+closed = 1;
+nodes = (
+"802 205 LINE",
+"802 375 LINE",
+"59 375 LINE",
+"59 205 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1070 290 LINE",
+"630 590 LINE",
+"630 -10 LINE"
+);
+}
+);
+width = 1107;
+}
+);
+leftMetricsKey = "=plus";
+rightMetricsKey = "=|";
 },
 {
 glyphname = period;
