@@ -33,14 +33,8 @@ In order to use the font in regular sentences, several new glyphs have been impl
 
 To install the Enso font, please follow these steps:
 
-1. Download the font files from the fonts directory.
+1. Download the font files from the [release page](https://github.com/enso-org/font/releases).
 2. Use your system's font manager to install the downloaded files.
-
-<br/>
-
-## Font version
-
-If you want to automate the font installation and management, for example for the purpose of automatic CI integration, you can query the font version either by parsing one of the TTF binary files by using one of such libraries as [opentype.js](https://opentype.js.org) or by reading the UTF-8 encoded `sources/Enso.glyphs` and reading the values of `versionMajor` and `versionMinor` variables.
 
 <br/>
 
